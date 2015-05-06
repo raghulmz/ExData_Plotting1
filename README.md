@@ -7,10 +7,10 @@
 2. Download the following data from UC Irvine Machine Learning Repository<br>
 <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">
 Electric power consumption</a> [20Mb]<br>
-```sh~ wget https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip```
+```sh ~ wget https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip```
 
 3. Extract the .zip and place it in the same directory as `read_data.R`<br>
-   ```sh~ unzip "exdata%2Fdata%2Fhousehold_power_consumption.zip”```<br>
+   ```sh ~ unzip "exdata%2Fdata%2Fhousehold_power_consumption.zip”```<br>
    or unzip using a graphical tool
 
 4. Make sure that `household_power_consumption.txt` is in the same directory as `read_data.R`
