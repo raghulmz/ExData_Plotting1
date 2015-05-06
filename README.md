@@ -1,5 +1,5 @@
-###Exploratory Data Analysis 
-##Course Project 1
+##Exploratory Data Analysis 
+####Course Project 1
 
 1.  Clone this repository to you computer<br>
  ```sh ~ git clone https://github.com/raghulmz/ExData_Plotting1.git```
